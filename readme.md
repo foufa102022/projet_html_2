@@ -33,8 +33,4 @@ Ce projet représente une page web simple affichant un menu de restaurant nommé
 ## Ressources externes
 - Lien de contact pour les réservations : [TripAdvisor Restaurant Dar Deda](https://www.tripadvisor.fr/Restaurant_Review-g293757-d1727826-Reviews-Restaurant_Dar_Deda-Tozeur_Tozeur_Governorate.html)
 
-## Auteurs
-- **Développeur principal** : [Votre nom]
 
-## Licence
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'informations.
